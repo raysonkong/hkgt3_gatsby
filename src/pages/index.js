@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>錦峰公司</h1>
+    <h1>Hong Kong Guitar Tutor</h1>
     <h2>Kam Fung Ginseng, Seafood and Herbs!</h2>
     <h4>經營</h4>
     <h4>鮑參翅肚 燕窩蟲草</h4>
