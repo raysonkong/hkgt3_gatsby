@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `錦峰公司`,
-    description: `Chinese Herbs and cool stuff.`,
+    title: `HKGuitarTutor`,
+    description: `Hong Kong Guitar Tutor Rayson Kong`,
     author: `@KamFungCompany`,
-    siteUrl: `https://www.kamfungcompany.com`,
+    siteUrl: `https://www.hkguitartutor.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
