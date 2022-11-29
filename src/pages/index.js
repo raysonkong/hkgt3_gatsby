@@ -21,15 +21,40 @@ const IndexPage = () => (
         <p>-私人教授電結他和古典結他</p>
         <p>-Email : hongkongguitartutor@gmail.com</p>
         <a href="http://www.youtube.com/raysonkong" target="_blank">-Youtube 影片示範</a>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCl6o9hyV6TEhE2ldyUErumM0AlRkyt14Rkooui419s741UQ/viewform" target="_blank">-報名按這 Click here for Online Application</a>
-
-        <h2>Rayson at Musicians Institute</h2>
-            <img src="/images/rayson_mi.jpg" alt="rayson" width="500"/>
-         <div>
-            <img src="/images/rs_comment_1.jpg" alt="Rockschool Mention" width="1000"/>
+        <div><a href="https://docs.google.com/forms/d/e/1FAIpQLSfCl6o9hyV6TEhE2ldyUErumM0AlRkyt14Rkooui419s741UQ/viewform" target="_blank">-報名按這 Click here for Online Application</a>
         </div>
-         <div>
-            <img src="/images/rs_comment_2.jpg" alt="Rockschool Mention" width="1000"/>
+
+        <div>
+          <StaticImage
+          src="../images/rs_comment_1.jpg"
+          width={300}
+          quality={95}
+          formats={["auto", "webp", "avif"]}
+          alt="A Gatsby astronaut"
+          style={{ marginBottom: `1.45rem` }}
+          />
+        </div>
+
+        <div>
+          <StaticImage
+          src="../images/rs_comment_2.jpg"
+          width={300}
+          quality={95}
+          formats={["auto", "webp", "avif"]}
+          alt="A Gatsby astronaut"
+          style={{ marginBottom: `1.45rem` }}
+          />
+        </div>
+
+        <div>
+          <StaticImage
+          src="../images/rayson_mi.jpg"
+          width={300}
+          quality={95}
+          formats={["auto", "webp", "avif"]}
+          alt="A Gatsby astronaut"
+          style={{ marginBottom: `1.45rem` }}
+          />
         </div>
 
       </div>
