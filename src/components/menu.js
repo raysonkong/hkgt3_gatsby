@@ -20,12 +20,12 @@ const Menu = () => (
   }}>
   
     <li><Link to="/">主頁</Link></li>
-    <li><Link to="/products/watered_cucumber">專人浸發海參</Link></li>
-
-    <li><Link to="/products">產品目錄</Link></li>
-    <li><Link to="/about">聯絡我們</Link></li>
-    
-
+    <li><Link to="/">報名</Link></li>
+    <li><Link to="/products">Student Demo</Link></li>
+    <li><Link to="/products">Free Tab</Link></li>
+    <li><Link to="/about">Buy Tab</Link></li>
+    <li><Link to="/about">Enquiry</Link></li>
+  
   </ul>
 
   </div>
