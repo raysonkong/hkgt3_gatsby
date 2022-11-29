@@ -14,6 +14,7 @@ const IndexPage = () => (
        <p>-Email : hongkongguitartutor@gmail.com</p>
 
        </div> 
+            <h1 class='left'>Rayson at Musicians Institute </h1>
 
         <div>
           <StaticImage
@@ -25,6 +26,7 @@ const IndexPage = () => (
           style={{ marginBottom: `1.45rem` }}
           />
         </div>
+        <h1 class='left'>RockSchool Praised and Shared Rayson's Work TWICE! </h1>
 
         <div>
           <StaticImage
