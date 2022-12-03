@@ -20,11 +20,12 @@ const Menu = () => (
   }}>
   
     <li><Link to="/">主頁</Link></li>
-    <li><Link to="/">報名</Link></li>
-    <li><Link to="/products">Student Demo</Link></li>
-    <li><Link to="/products">Free Tab</Link></li>
-    <li><Link to="/about">Buy Tab</Link></li>
-    <li><Link to="/about">Enquiry</Link></li>
+    <li><Link to="/apply">報名</Link></li>
+    <li><Link to="/student_demo">Student Demo</Link></li>
+    <li><Link to="/free_tab">Free Tab</Link></li>
+    <li><Link to="/buy_tab">Buy Tab</Link></li>
+    <li><Link to="/enquiry">Enquiry</Link></li>
+    <li><a target="_blank" href="https://transactions.sendowl.com/cart?merchant_id=247390" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/v2/view-cart.png"/></a> <script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script></li>
   
   </ul>
 
