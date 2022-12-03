@@ -38,17 +38,20 @@ const IndexPage = () => (
           style={{ marginBottom: `1.45rem` }}
           />
         </div>
+        <h1 class='left'>RockSchool Praised and Shared Rayson's Work TWICE! </h1>
 
         <div>
           <StaticImage
           src="../images/rs_comment_2.jpg"
-          width={600}
+          width={800}
           quality={95}
           formats={["auto", "webp", "avif"]}
           alt="A Gatsby astronaut"
           style={{ marginBottom: `1.45rem` }}
           />
         </div>
+
+   
 
         
         <p>流行電結他／Fingerstyle結他課程 - By Rayson Kong</p>
