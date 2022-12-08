@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `HKGuitarTutor`,
     description: `Hong Kong Guitar Tutor Rayson Kong`,
-    author: `@KamFungCompany`,
+    author: `@Hong Kong Guitar Tutor`,
     siteUrl: `https://www.hkguitartutor.com`,
   },
   plugins: [
