@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 
 const Products = () => (
   <Layout>
-  <h2>Buy Tabs</h2>
+  <h2>Buy Tabs!</h2>
 
   <table class="GeneratedTable"  class="last">
     <thead>
