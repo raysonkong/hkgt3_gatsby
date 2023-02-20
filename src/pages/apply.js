@@ -49,7 +49,7 @@ const Products = () => (
               </tbody>
             </table>
            
-            <p>Fee Effective from Jan 2021 恕不另行通知任何更改</p>
+            <p>Fee Effective from Jan 2023 恕不另行通知任何更改</p>
             <p>Weekly Lessons Pay-per-lesson not accecpted</p>
 
   </Layout>
