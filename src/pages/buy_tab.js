@@ -51,24 +51,34 @@ const Products = () => (
   </table>
 
 
-            <table class="GeneratedTable"  class="last">
-              <thead>
-                <tr>
-                  <th>Song Arrangements (All come with Tabs and Backings)</th>
-                  <th>Tab Link</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td><a href="/products/you_know_my_name" target="_blank">You Know My Name </a></td>
-                  <td><a href="https://sowl.co/s/UeTgR" target="_blank">Buy Now</a></td>
-                </tr>
-                <tr>
-                  <td>Another Awesome song </td>
-                  <td>Add to Cart </td>
-                </tr>
-              </tbody>
-            </table>
+    <table class="GeneratedTable"  class="last">
+      <thead>
+        <tr>
+          <th>Song Arrangements (All come with Tabs and Backings)</th>
+          <th>Tab Link</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        {/*Product List starts here*/}
+
+
+        <tr>
+          <td><a href="/products/you_know_my_name" target="_blank">You Know My Name </a></td>
+          <td><a href="https://sowl.co/s/UeTgR" target="_blank">Buy Now</a></td>
+        </tr>
+
+        <tr>
+          <td><a href="/products/digimon" target="_blank">Butter-Fly Digimon Theme Song</a></td>
+          <td><a href="https://sowl.co/s/hUBwZ" target="_blank">Buy Now</a></td>
+        </tr>
+
+
+  
+
+
+      </tbody>
+    </table>
 
   </Layout>
 )
