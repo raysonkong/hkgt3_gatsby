@@ -13,7 +13,7 @@ const Products = () => (
     <table class="GeneratedTable"  class="last">
       <thead>
         <tr>
-          <th>Song Arrangements Tabs and Backings</th>
+          <th>Song Arrangements with Tabs and Backings!!</th>
           <th>Tab Link</th>
         </tr>
       </thead>
