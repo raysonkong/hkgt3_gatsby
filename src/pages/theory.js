@@ -13,14 +13,14 @@ const Theory = () => (
       <table class="GeneratedTable"  class="last">
         <thead>
           <tr>
-            <th>Resources</th>
+            <th>Resources:Tests</th>
             <th></th>
           </tr>
         </thead>
         <tbody>
 
           <tr>
-            <td><a href="" target="_blank"> </a></td>
+            <td><a href="" target="_blank">Tests</a></td>
             <td><a href="" target="_blank"></a></td>
           </tr>
 
@@ -229,26 +229,271 @@ const Theory = () => (
           </tbody>
         </table>
 
+
         <table class="GeneratedTable"  class="last">
           <thead>
             <tr>
-              <th>Ch 3</th>
+              <th>Ch 3A</th>
               <th></th>
             </tr>
           </thead>
           <tbody>
 
             <tr>
-              <td><a href="https://youtu.be/kvDQHnQG-9Y" target="_blank">Ch1 Part 1: Reading Music 1 </a></td>
+              <td><a href="https://youtu.be/uI-eh27GRog?si=NYehl-XelQi8OaA_" target="_blank">Ch 3A Part 1 - Major Scales part 1 </a></td>
             </tr>
 
+            <tr>
+              <td><a href="https://youtu.be/i1zA5bOkb4Y?si=H6NkRrrBr4K6bU_C" target="_blank">Ch 3A part 2 - Major Scales part 2</a></td>
+            </tr>
 
             <tr>
-              <td><a href="https://youtu.be/HHNPZl0gY0g" target="_blank">Ch1 Part 2: Reading Music 2</a></td>
+              <td><a href="https://youtu.be/q7E5deSd6FQ?si=1pa3bU5VwxoxCtOI" target="_blank">Ch 3A part 3 Major Scale Sharp keys Examples</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/QUaFpVYyR64?si=4WTYm7g87mNfhMk2" target="_blank">Ch 3A part 4 - Properties of Sharp Keys (Major)</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/l4AhiIRrseA?si=NRJHtXiCD26DucfO" target="_blank">Ch 3A part 5- Sharp Keys Key Signature (Major) part 1</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/0MTa5MZoE2w?si=Cg6l_w_PSZHYRIXW" target="_blank">Ch 3A part 6 Sharp Keys Key Signature (Major) Part 2</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/t9ZZztA3aUU?si=3oJcgqKSLFsPbsOA" target="_blank">Ch 3A part 7 Major Scales Flat Keys</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/4NE012d3E3E?si=Xq9plvqp3oWXR9Dp" target="_blank">Ch 3A part 8 Major Scales Flat Keys Examples</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/RkfkNGtSVSc?si=9uYgaDiQVttYD77p" target="_blank">Ch 3A part 9 - Major scale Flat Keys Properties Part 1</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/Erv-L6QTfLE?si=oLq9pqX95WjabmNS" target="_blank">Ch 3A part 10 - Major Scales Flat Key Properties part 2</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/V6Qwb8iN1bo?si=uXDDBmeiq9KcItJk" target="_blank">Ch 3A part 11 - Major Flat Key Signature</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/cUSpfnVd1Eo?si=jgu39qpfzK80IPyQ" target="_blank">Ch 3A part 12 Major Flat Keys Signature Follow-up</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/gIKTIdIuCSY?si=M0IIcPombURY789b" target="_blank">Ch 3A part 13 - Major Scales Characteristic notes</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/BXxv9gdprxg?si=FvcwXmeK01AgqB1B" target="_blank">Ch 3A part 14 Major scale tone stability</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/u5OfNuqzkX4?si=FEYhWPQBdOdbOn1e" target="_blank">Ch 3A part 15 Major Scale tone Tendency</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/Su6LgTMhrLI?si=pYqYFKSoCrEwgYUu" target="_blank">Ch 3A part 16 Tone Tendency Exercises</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/wFnSwodg140?si=7K14RO-qj9OiK6sN" target="_blank">Ch 3A part 17 - Constructing circle of 5ths</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/HXptDS8I2KE?si=GPeVvCaQq3r00_Kk" target="_blank">Ch 3A part 18 - One way to use the circle of 5ths</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/nC7qhoDmjkY?si=NI6uG-FzzkLtos3a" target="_blank">Ch 3A part 19 - Chapter 3A Review</a></td>
             </tr>
 
           </tbody>
         </table>
+
+        <table class="GeneratedTable"  class="last">
+          <thead>
+            <tr>
+              <th>Ch 3B</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+
+            <tr>
+              <td><a href="https://youtu.be/uI-eh27GRog?si=NYehl-XelQi8OaA_" target="_blank">Ch 3A Part 1 - Major Scales part 1 </a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/i1zA5bOkb4Y?si=H6NkRrrBr4K6bU_C" target="_blank">Ch 3A part 2 - Major Scales part 2</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/q7E5deSd6FQ?si=1pa3bU5VwxoxCtOI" target="_blank">Ch 3A part 3 Major Scale Sharp keys egs</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/QUaFpVYyR64?si=4WTYm7g87mNfhMk2" target="_blank">Ch 3A part 4 - Properties of Sharp Keys Major</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/l4AhiIRrseA?si=NRJHtXiCD26DucfO" target="_blank">Ch 3A part 5- Sharp Keys Key Signature Major part 1</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/0MTa5MZoE2w?si=Cg6l_w_PSZHYRIXW" target="_blank">Ch 3A part 6 Sharp Keys Key Signature Major Part 2</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/t9ZZztA3aUU?si=3oJcgqKSLFsPbsOA" target="_blank">Ch 3A part 7 Major Scales Flat Keys MP4</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/4NE012d3E3E?si=Xq9plvqp3oWXR9Dp" target="_blank">Ch 3A part 8 Major Scales Flat Keys Egs</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/RkfkNGtSVSc?si=9uYgaDiQVttYD77p" target="_blank">Ch 3A part 9 - Major scale Flat Keys Properties</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/Erv-L6QTfLE?si=oLq9pqX95WjabmNS" target="_blank">Ch 3A part 10 - Major Scales Flat Key Properties part 2</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/V6Qwb8iN1bo?si=uXDDBmeiq9KcItJk" target="_blank">Ch 3A part 11 - Major Flat Key Signature</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/cUSpfnVd1Eo?si=jgu39qpfzK80IPyQ" target="_blank">Ch 3A part 12 Major Flat Keys Signature follow up</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/gIKTIdIuCSY?si=M0IIcPombURY789b" target="_blank">Ch 3A part 13 - Major Scales Characteristic notes</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/BXxv9gdprxg?si=FvcwXmeK01AgqB1B" target="_blank">Ch 3A part 14 Major scale tone stability</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/u5OfNuqzkX4?si=FEYhWPQBdOdbOn1e" target="_blank">Ch 3A part 15 Major Scale tone Tendency</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/Su6LgTMhrLI?si=pYqYFKSoCrEwgYUu" target="_blank">Ch 3A part 16 Tone Tendency exercise</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/wFnSwodg140?si=7K14RO-qj9OiK6sN" target="_blank">Ch 3A part 17 - Constructing circle of 5ths</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/HXptDS8I2KE?si=GPeVvCaQq3r00_Kk" target="_blank">Ch 3A part 18 - One way to use circle of 5ths</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/nC7qhoDmjkY?si=NI6uG-FzzkLtos3a" target="_blank">Ch 3A part 19 - Review</a></td>
+            </tr>
+
+          </tbody>
+        </table>
+
+        <table class="GeneratedTable"  class="last">
+          <thead>
+            <tr>
+              <th>Ch 3C</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+
+            <tr>
+              <td><a href="https://youtu.be/uI-eh27GRog?si=NYehl-XelQi8OaA_" target="_blank">Ch 3A Part 1 - Major Scales part 1 </a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/i1zA5bOkb4Y?si=H6NkRrrBr4K6bU_C" target="_blank">Ch 3A part 2 - Major Scales part 2</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/q7E5deSd6FQ?si=1pa3bU5VwxoxCtOI" target="_blank">Ch 3A part 3 Major Scale Sharp keys egs</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/QUaFpVYyR64?si=4WTYm7g87mNfhMk2" target="_blank">Ch 3A part 4 - Properties of Sharp Keys Major</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/l4AhiIRrseA?si=NRJHtXiCD26DucfO" target="_blank">Ch 3A part 5- Sharp Keys Key Signature Major part 1</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/0MTa5MZoE2w?si=Cg6l_w_PSZHYRIXW" target="_blank">Ch 3A part 6 Sharp Keys Key Signature Major Part 2</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/t9ZZztA3aUU?si=3oJcgqKSLFsPbsOA" target="_blank">Ch 3A part 7 Major Scales Flat Keys MP4</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/4NE012d3E3E?si=Xq9plvqp3oWXR9Dp" target="_blank">Ch 3A part 8 Major Scales Flat Keys Egs</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/RkfkNGtSVSc?si=9uYgaDiQVttYD77p" target="_blank">Ch 3A part 9 - Major scale Flat Keys Properties</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/Erv-L6QTfLE?si=oLq9pqX95WjabmNS" target="_blank">Ch 3A part 10 - Major Scales Flat Key Properties part 2</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/V6Qwb8iN1bo?si=uXDDBmeiq9KcItJk" target="_blank">Ch 3A part 11 - Major Flat Key Signature</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/cUSpfnVd1Eo?si=jgu39qpfzK80IPyQ" target="_blank">Ch 3A part 12 Major Flat Keys Signature follow up</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/gIKTIdIuCSY?si=M0IIcPombURY789b" target="_blank">Ch 3A part 13 - Major Scales Characteristic notes</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/BXxv9gdprxg?si=FvcwXmeK01AgqB1B" target="_blank">Ch 3A part 14 Major scale tone stability</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/u5OfNuqzkX4?si=FEYhWPQBdOdbOn1e" target="_blank">Ch 3A part 15 Major Scale tone Tendency</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/Su6LgTMhrLI?si=pYqYFKSoCrEwgYUu" target="_blank">Ch 3A part 16 Tone Tendency exercise</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/wFnSwodg140?si=7K14RO-qj9OiK6sN" target="_blank">Ch 3A part 17 - Constructing circle of 5ths</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/HXptDS8I2KE?si=GPeVvCaQq3r00_Kk" target="_blank">Ch 3A part 18 - One way to use circle of 5ths</a></td>
+            </tr>
+
+            <tr>
+              <td><a href="https://youtu.be/nC7qhoDmjkY?si=NI6uG-FzzkLtos3a" target="_blank">Ch 3A part 19 - Review</a></td>
+            </tr>
+
+          </tbody>
+        </table>
+
 
         <table class="GeneratedTable"  class="last">
           <thead>
